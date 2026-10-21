@@ -1,12 +1,12 @@
-# 👗 Fashion Store
+👗 Fashion Store
 
 Welcome to Fashion Store, your go-to destination for stylish and trendy fashion essentials! ✨ We bring you the latest looks, exclusive deals, and a smooth shopping experience designed to make fashion shopping enjoyable and effortless. 🛍️
 
-## 🌟 Overview
+🌟 Overview
 
-Fashion Store is a modern e-commerce landing page created with HTML and CSS. It is designed to showcase the latest fashion collections, highlight upcoming sales, and provide customers with an attractive and user-friendly shopping experience. 💃
+In this project, I created an e-commerce website called "Fashion Store" 👗 where we will be showcasing different fashion options available at this store in an user-friendly way and also we will be displaying information of our upcoming sales in a well structured table. Along with that, we will add some description about benefits of our FASHION STORE to attract users and finally we will be creating an eye pleasing footer to mark our copyrights. 💃
 
-## 🧥 What You’ll Find Here
+🧥 What You’ll Find Here
 
 - Trendy fashion picks for every style 💖
 - Best-selling seasonal outfits 👚
@@ -22,7 +22,7 @@ Fashion Store is a modern e-commerce landing page created with HTML and CSS. It 
 - Elegant brand presentation to attract shoppers 👀
 - Responsive styling for a better browsing experience 📱
 
-## 🛍️ Why Shop at Fashion Store?
+🛍️ Why Shop at Fashion Store?
 
 Shopping with us means more than just buying clothes — it means enjoying a better experience:
 
@@ -31,15 +31,6 @@ Shopping with us means more than just buying clothes — it means enjoying a bet
 - Simple and organized browsing experience 🧩
 - Up-to-date sales and promotional offers 📅
 - A trusted store identity built around quality and convenience ✅
-
-## 📊 Upcoming Sales
-
-| Sale Event | Discount | Validity | Category |
-|-----------|----------|----------|----------|
-| Summer Collection | 30% OFF | 1st - 15th June | Women Fashion |
-| Weekend Flash Sale | 25% OFF | Every Saturday | Accessories |
-| New Arrival Drop | 20% OFF | Monthly | Men Fashion |
-| Festival Specials | 35% OFF | During Festive Season | All Items |
 
 ## 🎯 Design Highlights
 
